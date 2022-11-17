@@ -1,0 +1,22 @@
+#	Description	OK/
+NOK?	Remarks
+1.1 		Can the app be installed on the device?	N/A
+
+1.2 		Does the app behave as designed/desired if there is an incoming call?	N/A
+
+1.3 		Does the app behave as designed/desired if there is an incoming SMS?	N/A
+
+1.4 		Does the app behave as designed/desired if the charger is connected?	N/A
+
+1.5 		Does the app behave as designed/desired if the charger is disconnected?	N/A
+
+1.6 		Does the app behave as designed/desired if the device goes to sleeping mode	N/A
+
+1.7 		Does the app behave as designed/desired if the device resumes from sleeping mode	N/A
+
+1.8 		Does the app behave as designed/desired if the device resumes from lock screen? 	N/A
+
+1.9 		Does the app behave as designed/desired if the device is tilted?	N/A
+
+1.10 		Does the app behave as designed/desired if the device is shaken?	N/A
+
