@@ -1,15 +1,17 @@
-1						
-Reporter:	Alona Bohdanets	Assigned to:	31_qa_group	Status:	Open	Attachments:
-Type: 	Bug	Severity:	critical	Priority:	high	
-Browser:	Google Chrome 104.0.5112.81	OS:	Windows	OS version	10x64	
-Summary:	The "404" Error message is displayed on the "Skirts" page after choosing 3 checkboxes in the "size" filter					
-Pre-conditions:						
-1	Site https://vos-jewelry.com opened in the browser					
+ID: 1						
+Reporter:	Alona Bohdanets	
+Assigned to:	31_qa_group	
+Status:	Open	
+Attachments:
+Type: 	Bug	
+Severity:	critical	
+Priority:	high	
+Browser:	               Google Chrome 104.0.5112.81	OS:	Windows	OS version	10x64	
+Summary:	               The "404" Error message is displayed on the "Skirts" page after choosing 3 checkboxes in the "size" filter					
+Pre-conditions:		       Site https://vos-jewelry.com opened in the browser					
 Steps to reproduce:						
-1	Click the "Skirt" button					
-2	Chose 3 checkboxes in the "Size" filter					
-Actual result:						
-The "404" Error message is displayed						
-Expected result:						
-The items from the catalog are displayed on the "Skirt" page						
+1.	Click the "Skirt" button					
+2.	Chose 3 checkboxes in the "Size" filter					
+Actual result:						The "404" Error message is displayed						
+Expected result:					The items from the catalog are displayed on the "Skirt" page						
 
